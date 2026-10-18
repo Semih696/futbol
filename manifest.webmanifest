@@ -1,0 +1,37 @@
+{
+ "name": "Football Career",
+ "short_name": "Football",
+ "description": "Ragdoll futbol kariyer oyunu",
+ "lang": "tr",
+ "start_url": "./",
+ "scope": "./",
+ "id": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "landscape",
+ "theme_color": "#08130e",
+ "background_color": "#08130e",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
